@@ -6,15 +6,78 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <!-- styling -->
-   <title>Document</title>
+   <title>TackType - The all in one touch typing playground</title>
    <link rel="shortcut icon" href="./resources/icons/logo.svg" type="image/x-icon">
    <link rel="stylesheet" href="./css/index.css">
-
 
    <!-- scripts -->
    <script defer type="module" src="./src/javascript/index.js"></script>
 </head>
 <body>
+   <!-- app -->
+   <div class="app">
+      <!-- header -->
+      <header class="header">
+         <span class="header-logo"><img src="" alt="" class="icon"></span>
+         <span class="header-label">TackType</span>
+      </header>
+      
+      <!-- body -->
+      <main class="app-body">
+         <!-- main -->
+         <div class="main">
+            <!-- plaground -->
+            <div class="playground"><div class="text-cnt"></div></div>
+
+            <!-- progress bar -->
+            <div class="prg-bar">
+               <span class="prg-lft"></span>
+               <span class="prg-mid"></span>
+               <span class="prg-rgh"></span>
+            </div>
+
+            <!-- metrics -->
+            <div class="metrics">
+               <!-- wpm -->
+               <span class="wpm-cnt">
+                  <span class="wpm-lbl">wpm</span>
+                  <span class="wpm-dgt">0°</span>
+               </span>
+
+               <!-- accuracy -->
+               <span class="accur-cnt">
+                  <span class="accur-lbl">accuracy</span>
+                  <span class="accur-dgt">100%</span>
+               </span>
+            </div>
+
+            <!-- notifications -->
+            <div class="notif-inside">
+               <div class="notif caps-note">
+                  <span class="details"></span>
+               </div>
+            </div>
+         </div>
+
+         <!-- config bar -->
+         
+         <div class="config-bar">
+            <!-- fab container -->
+            <div class="config-cnt">
+               <button class="fab theme-btn">
+                  <span class="fab-icn theme-icn"><img src="" alt=""></span>
+               </button>
+
+               <button class="fab reset-btn">
+                  <span class="fab-icn reset-icn"><img src="" alt=""></span>
+               </button>
    
+               <button class="fab pause-btn">
+                  <span class="fab-icn pause-icn"><img src="" alt=""></span>
+               </button>
+            </div>
+         </div>
+      </main>
+   </div>
 </body>
 </html>
