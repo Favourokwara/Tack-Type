@@ -39,7 +39,7 @@ This app doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Favourokwara/tack-type.git
    ```
 2. Press ```Ctrl```  + ```L``` + ```O``` while in the vscode editor to open repo on live server`
 
