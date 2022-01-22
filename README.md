@@ -39,7 +39,7 @@ This app doesn't rely on any external dependencies or services.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/Favourokwara/tack-type
+   git clone https://github.com/Favourokwara/tack-type.git
    ```
 2. Press the "Go Live" button at the bottom of the editor.
 > Shortcut Alt + L + O
