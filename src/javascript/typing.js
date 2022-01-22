@@ -228,7 +228,7 @@ class Typing {
          .progress()
          .updateMetrics()
       
-      document.querySelector(".pause-icn").classList.toggle("--play")
+      document.querySelector(".pause-icn").classList.remove("--play")
    }
 }
 
