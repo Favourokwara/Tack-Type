@@ -20,7 +20,7 @@
 
 # Built With
 
-I wanted it to simple thus i used easy to learn web technologies. Any one is free to play around with it and add their own fair to it.  
+I wanted the code to be simple to edit and modify thus used the following web technologies:
 
 - Vanilla Javascript ES6
 - HTML
@@ -31,17 +31,18 @@ I wanted it to simple thus i used easy to learn web technologies. Any one is fre
 
 ### Prerequisites
 
-You must ensure that the vscode live share server is installed.
+Please Ensure that you have "Live Server" installed on your vscode IDE
 
 ### Installation
 
-This app doesn't rely on any external dependencies or services._
+This app doesn't rely on any external dependencies or services.
 
-1. Clone the repo
+1. Clone the repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Favourokwara/tack-type
    ```
-2. Press ```Ctrl```  + ```L``` + ```O``` while in the vscode editor to open repo on live server`
+2. Press the "Go Live" button at the bottom of the editor.
+> Shortcut Alt + L + O
 
 
 ## Creators
