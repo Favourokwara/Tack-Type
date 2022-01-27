@@ -60,4 +60,5 @@ Project Link: [https://github.com/Favourokwara/tack-type](https://github.com/Fav
 ## Copyright and license
 
 Distributed under the MIT License. See LICENSE.txt for more information.
+
 Enjoy :metal:
